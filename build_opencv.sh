@@ -64,7 +64,9 @@ install_dependencies () {
         libatlas-base-dev \
         libavcodec-dev \
         libavformat-dev \
+        libswresample-dev \
         libcanberra-gtk3-module \
+        libdc1394-dev \
         libeigen3-dev \
         libglew-dev \
         libgstreamer-plugins-base1.0-dev \
